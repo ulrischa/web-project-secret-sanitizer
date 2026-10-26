@@ -1,0 +1,11 @@
+# Configuration is optional. Keep this file outside the shared project.
+# These lists extend built-in detection. Exclusions retain files locally.
+exclude: []
+sensitive_keys: []
+sensitive_values: []
+patterns: []
+# Map only formats whose syntax matches the selected adapter.
+# Example: "*.properties": properties
+# Example: "settings.conf": ini
+all_values: {}
+max_file_bytes: 8388608
